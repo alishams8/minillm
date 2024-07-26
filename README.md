@@ -9,7 +9,7 @@ Transformer is a neural network architecture that performs sequence to sequence 
 ![Project Overview](pic/architecture.jpeg)
 
 
-To run the code you just need to have python 3.10 installed in your system. Then just run following command:
+To run the code you just need to have python 3.10 installed in your system. Then run following command:
 
 ```
 make all
