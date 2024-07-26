@@ -1,6 +1,13 @@
 # minillm
 
-This is implementation of Google Transformer library: 
+### Google Transformer Architecture:
+
+The Transformer architecture, introduced by Google researchers in the paper "Attention Is All You Need" (2017), is a key innovation in deep learning for natural language processing (NLP). It is the foundational model for many advanced NLP applications.
+
+### Foundation for ChatGPT:
+
+Models like ChatGPTdeveloped by OpenAI, are built on variations of the Transformer architecture. While ChatGPT is based on the GPT (Generative Pre-trained Transformer) model, which extends the Transformer architecture, it incorporates additional techniques and training strategies to enhance its performance.
+
 
 https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
 
